@@ -1,0 +1,10 @@
+{
+  "id": "tabflow-organizer",
+  "name": "TabFlow Organizer",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Organize Obsidian tabs into manual or path-based groups with a vertical sidebar and floating quick switcher.",
+  "author": "Hotee",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
