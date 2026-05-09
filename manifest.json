@@ -5,6 +5,6 @@
   "minAppVersion": "1.5.0",
   "description": "Organize Obsidian tabs into manual or path-based groups with a vertical sidebar and floating quick switcher.",
   "author": "Hotee",
-  "authorUrl": "",
+  "authorUrl": "https://github.com/hotee11",
   "isDesktopOnly": false
 }
