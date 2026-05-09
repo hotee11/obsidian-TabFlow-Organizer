@@ -153,10 +153,7 @@ const TEXT_EN = {
 };
 const DEFAULT_GROUP_COLORS = ["indigo", "teal", "amber", "ruby", "violet", "cyan"];
 const DEFAULT_SETTINGS = {
-  groups: [
-    { id: "group-1", name: "ERRγ", color: "blue" },
-    { id: "group-2", name: "写作", color: "green" },
-  ],
+  groups: [],
   leafGroupMap: {},
   groupCollapsedMap: { [UNGROUPED_ID]: false },
   groupOrder: [],

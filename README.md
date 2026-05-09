@@ -79,6 +79,17 @@ styles.css
 
 If you use [BRAT](https://github.com/TfTHacker/obsidian42-brat), you can install this plugin by adding this repository as a beta plugin.
 
+### Release checklist
+
+For each release:
+
+1. Keep `manifest.json` `version` in semver format and update `versions.json` mapping.
+2. Create a GitHub Release with attached files:
+   - `manifest.json`
+   - `main.js`
+   - `styles.css`
+3. Ensure release tag/version is the same as `manifest.json` `version`.
+
 ### Usage
 
 #### Open the sidebar
@@ -197,6 +208,17 @@ styles.css
 #### 使用 BRAT 安装
 
 如果你使用 [BRAT](https://github.com/TfTHacker/obsidian42-brat)，可以把本仓库作为 beta 插件添加进去。
+
+### 发布检查清单
+
+每次发版请确认：
+
+1. `manifest.json` 的 `version` 使用 semver，并同步更新 `versions.json` 映射。
+2. 创建 GitHub Release，并上传以下文件：
+   - `manifest.json`
+   - `main.js`
+   - `styles.css`
+3. Release 标签/版本号与 `manifest.json` 的 `version` 保持一致。
 
 ### 使用方法
 
